@@ -1,0 +1,45 @@
+.prof-input{
+    display: flex;
+    flex-direction: column;
+}
+.entire-prof-form{
+    padding: 20px;
+}
+.input-text-area{
+    height: 200px;
+    width: 300px;
+    border-radius: 15px;
+    border-width: 0.5px;
+    border-color: grey;
+    border-style: solid;
+}
+.prof-inputs{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 80%;
+    background-color: rgb(244, 244, 218);
+    padding: 30px;
+    border-radius: 20px;
+    margin: 40px;
+}
+.complete-form{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.button-submit{
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+}
+.input-prof{
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-top: 8px;
+    height: 40px;
+}
+.label{
+    font-size: 18px;
+
+}

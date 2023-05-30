@@ -1,0 +1,19 @@
+.icon{
+    height: 30px;
+    width:30px;
+    background-color: white;
+    color: black;
+}
+.button{
+    color: black;
+    height: 40px;
+    width: 130px;
+    border-width: 0px;
+    border-radius: 20px;
+    background-color: transparent;
+    font-weight:bold;
+}
+.signUp{
+    color: white;
+    background-color: black;
+}

@@ -1,0 +1,58 @@
+.bg{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.total-page-login{
+    background-image: url("https://img.freepik.com/free-vector/blue-curve-frame-template_53876-114600.jpg?size=626&ext=jpg&ga=GA1.1.27304542.1684867612&semt=ais");
+    background-size: cover;
+    
+}
+.loginBox{
+    background-color: white;
+    height: 350px;
+    width: 500px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    font-size: 18px;
+}
+.inputs{
+    display: flex;
+    flex-direction: column;
+}
+.input{
+    width: 300px;
+    border-style: solid;
+    border-color:grey;
+    border-width: 1px;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    padding-left:15px ;
+}
+.signIn{
+    margin-top: 20px;
+    height: 40px;
+    width: 140px;
+    border-width: 0px;
+    border-radius: 5px;
+    
+    background-color: rgb(48, 165, 48);
+    color: white;
+}
+.anchors{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 15px;
+    margin-top: 20px;
+}
+.anchor{
+    margin-right: 50px;
+}

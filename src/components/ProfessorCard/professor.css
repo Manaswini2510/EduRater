@@ -1,0 +1,53 @@
+.eachProfessorCard{
+    background-color: beige;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    margin-top: 20px;
+    width: 80%;
+}
+.card-bg{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.card-button{
+    width: 80%;
+    border-width: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: transparent;
+}
+.rating{
+    background-color: rgb(240, 240, 87);
+    height: 60px;
+    width: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+}
+.rating-box{
+    display: flex;
+    flex-direction: column;
+    
+}
+.quality-heading{
+    font-weight: 700;
+    font-size: 18px;
+}
+.profDetails{
+    text-align: right;
+}
+.profName{
+    font-size: 20px;
+    font-weight: 600;
+}
+.profUni{
+    font-weight: 600;
+}

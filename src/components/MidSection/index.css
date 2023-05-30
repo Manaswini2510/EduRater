@@ -1,0 +1,20 @@
+
+.images{
+    height: 150px;
+    width: 150px;
+}
+.button-image{
+    background-color: transparent;
+    border-width: 1px;
+    height: 210px;
+    width: 210px;
+    border-color: black;
+    border-style: solid;
+    padding: 3px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.button-image:hover{
+    transform: scale(1.05);
+    background-color: rgb(205, 227, 227);
+}

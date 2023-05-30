@@ -1,0 +1,67 @@
+
+.icon{
+    height:100px;
+    width: 100px;
+}
+.total-page{
+    height: 100vh;
+    background-color: white;
+}
+.top-section{
+    background-image: url("https://img.freepik.com/free-photo/cheerful-young-woman-posing-grey-wall-writing-notebook_176420-7130.jpg?size=626&ext=jpg&ga=GA1.2.27304542.1684867612&semt=ais");
+    height: 60vh;
+    background-size: cover;
+    opacity: 0.9;
+    color: white;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.top-text{
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+.drop-down{
+    height: 50px;
+    width: 30%;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+.down-text{
+    font-weight:700;
+    margin-top: 30px;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+.mid-section{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.heading{
+    font-weight: bold;
+}
+.college-names{
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.signup{
+    height: 50px;
+    width: 200px;
+    border-width: 0px;
+    margin: 20px;
+    margin-bottom: 30px;
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+    padding: 5px;
+    text-align: center;
+}
+.signup:hover{
+    transform: scale(1.1);
+}
